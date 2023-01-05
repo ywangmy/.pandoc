@@ -1,0 +1,15 @@
+verbosity: INFO #Let unspecified variables have their defaults
+
+to: html5
+
+# Reader Options
+
+# Writer Options
+
+standalone: true
+table-of-contents: true
+
+number-sections: true
+
+html-math-method:
+  method: mathjax
